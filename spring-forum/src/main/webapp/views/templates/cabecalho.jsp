@@ -7,6 +7,7 @@
 				<a href="<c:url value="/"/>"><img src="<c:url value="/recursos/images/logotipo.png"/>" /></a>
 			</h1>
 		</div>
+		
 		<div class="five columns right">
 			
 			<sec:authorize access="isAnonymous()">
